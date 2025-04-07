@@ -16,7 +16,7 @@
 車輪たち
 
 - 1: データ構造
-  - [ ] Singly Linked List
+  - [x] Singly Linked List
   - [ ] Doubly Linked List
   - [ ] Stack
   - [ ] Queue

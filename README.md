@@ -17,7 +17,7 @@
 
 - 1: データ構造
   - [x] Singly Linked List
-  - [ ] Doubly Linked List
+  - [x] Doubly Linked List
   - [ ] Stack
   - [ ] Queue
   - [ ] Tree

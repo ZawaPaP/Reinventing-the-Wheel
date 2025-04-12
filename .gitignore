@@ -2,3 +2,22 @@ __pycache__
 .pytest_cache
 .DS_Store
 venv
+# コンパイル生成物
+build/
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.exp
+*.def
+*.manifest
+*.res
+*.rc
+*.ico
+
+vscode/
+.vscode/
